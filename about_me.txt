@@ -1,2 +1,6 @@
 my name is harshith 
 and i like to study programming
+
+Goals:
+- Learn new technologies
+- Contribute to open-source projects
